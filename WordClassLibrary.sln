@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordClassLibrary", "WordClassLibrary.csproj", "{FE070007-3499-4EA1-9313-08A56E347950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{15E8BA11-CD85-4891-B525-B30B80DE7459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE070007-3499-4EA1-9313-08A56E347950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE070007-3499-4EA1-9313-08A56E347950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE070007-3499-4EA1-9313-08A56E347950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE070007-3499-4EA1-9313-08A56E347950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E8BA11-CD85-4891-B525-B30B80DE7459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E8BA11-CD85-4891-B525-B30B80DE7459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E8BA11-CD85-4891-B525-B30B80DE7459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E8BA11-CD85-4891-B525-B30B80DE7459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E17BC951-FC14-493A-B4EF-672ED3C2F06D}
+	EndGlobalSection
+EndGlobal
